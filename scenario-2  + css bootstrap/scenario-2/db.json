@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "produit 1",
+      "description": "produit isolant",
+      "price": "250",
+      "category": "isolation",
+      "id": 3
+    },
+    {
+      "name": "produit 22",
+      "description": "description produit 22",
+      "price": "444",
+      "category": "categorie produit 22",
+      "id": 4
+    }
+  ]
+}
